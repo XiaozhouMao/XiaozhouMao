@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 This is Zoe in HyperionDev Cyber Security Bootcamp!
+### I’m currently learning Python Scripting and Cyber Security fundamentals! 
 
 <!--
 **XiaozhouMao/XiaozhouMao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
